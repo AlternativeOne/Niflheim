@@ -3,6 +3,8 @@ Compatibility mod to allow The Coffin of Andy and Leyley to be played on JoiPlay
 
 Mod overrides JavaScript functions that are responsible for displaying text and other functions to fix problems when playing on JoiPlay.
 
+If you are here for the files - just download from the latest release on "Releases" page.
+
 ### Usage
 
 This mod will work only on TCOAAL v2.0.9 (Episode 1&2) and lower.
