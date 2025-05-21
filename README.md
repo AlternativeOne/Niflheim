@@ -1,11 +1,11 @@
 # Niflheim
 Compatibility mod to allow The Coffin of Andy and Leyley to be played on JoiPlay.
 
-Mod overrides JavaScript functions that are responsible for display text and other functions to fix problems when playing on JoiPlay.
+Mod overrides JavaScript functions that are responsible for displaying text and other functions to fix problems when playing on JoiPlay.
 
 ### Usage
 
-This mod will work only on TCOAAL of v2.0.9 (Episode 1&2) and lower.
+This mod will work only on TCOAAL v2.0.9 (Episode 1&2) and lower.
 
 1. Decrypt game files using [IelmenDecryptor](https://github.com/AlternativeOne/IelmenDecryptor/tree/master) or any tool from [Decryptors section](https://coffin-wiki.basil.cafe/projects).
 2. Put file www/js/main.js to www/js with override.
